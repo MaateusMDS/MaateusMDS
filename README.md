@@ -49,15 +49,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=MaateusMDS" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MaateusMDS" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaateusMDS&custom_title=Status&show_icons=true&count_private=true&hide_border=true&title_color=6b82e8&icon_color=2c42a3&text_color=c9d1d9&bg_color=0d1117" alt="MaateusMDS github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaateusMDS&layout=compact&hide_border=true&hide=jupyter%20notebook&title_color=6b82e8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/MaateusMDS/MaateusMDS/blob/output/github-contribution-grid-snake.svg)
 
 ###
